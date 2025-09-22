@@ -1,0 +1,5 @@
+#Arquivos para ignorar do code::blocks
+
+*.layout
+*.o
+bin/
